@@ -1,0 +1,29 @@
+{
+  "api": {
+    "appid": "YOUR_WECHAT_APPID",
+    "appsecret": "YOUR_WECHAT_APPSECRET",
+    "use_sandbox": false
+  },
+  "generation": {
+    "product_count": 1,
+    "category_ids": [100, 200, 300],
+    "price_range": [99, 999],
+    "stock_range": [10, 100],
+    "image_count": 3,
+    "use_ai_images": true
+  },
+  "upload": {
+    "batch_size": 10,
+    "request_interval": 1,
+    "max_retries": 3,
+    "timeout": 30,
+    "max_concurrency": 5
+  },
+  "qianduoduo_api": {
+    "api_key": "YOUR_QIANDUODUO_API_KEY",
+    "base_url": "https://api.qianduoduo.com",
+    "model": "stable-diffusion-v1.5",
+    "timeout": 60,
+    "retry_count": 3
+  }
+}

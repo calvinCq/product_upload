@@ -1,0 +1,135 @@
+{
+  "说明": "微信小店常见商品类目参考示例",
+  "注意": "以下为示例数据，请以实际API返回为准",
+  "last_updated": "2025-10-30",
+  "常见一级类目": [
+    {
+      "id": "381003",
+      "name": "虚拟商品",
+      "level": 1,
+      "parent_id": 0,
+      "children": [
+        {"id": "380003", "name": "数字内容", "level": 2, "parent_id": 381003, "children": [
+          {"id": "517050", "name": "视频教程", "level": 3, "parent_id": 380003},
+          {"id": "517051", "name": "电子书", "level": 3, "parent_id": 380003},
+          {"id": "517052", "name": "音频内容", "level": 3, "parent_id": 380003}
+        ]},
+        {"id": "380004", "name": "游戏娱乐", "level": 2, "parent_id": 381003},
+        {"id": "380005", "name": "生活服务", "level": 2, "parent_id": 381003}
+      ]
+    },
+    {
+      "id": "6706",
+      "name": "图书文娱",
+      "level": 1,
+      "parent_id": 0,
+      "children": [
+        {"id": "6733", "name": "图书", "level": 2, "parent_id": 6706, "children": [
+          {"id": "6741", "name": "文学小说", "level": 3, "parent_id": 6733},
+          {"id": "6742", "name": "生活休闲", "level": 3, "parent_id": 6733},
+          {"id": "6743", "name": "教育考试", "level": 3, "parent_id": 6733}
+        ]},
+        {"id": "6734", "name": "音像制品", "level": 2, "parent_id": 6706},
+        {"id": "6735", "name": "文具用品", "level": 2, "parent_id": 6706}
+      ]
+    },
+    {
+      "id": "1",
+      "name": "服饰鞋包",
+      "level": 1,
+      "parent_id": 0,
+      "children": [
+        {"id": "101", "name": "男装", "level": 2, "parent_id": 1},
+        {"id": "102", "name": "女装", "level": 2, "parent_id": 1},
+        {"id": "103", "name": "鞋类", "level": 2, "parent_id": 1},
+        {"id": "104", "name": "箱包", "level": 2, "parent_id": 1}
+      ]
+    },
+    {
+      "id": "2",
+      "name": "美妆个护",
+      "level": 1,
+      "parent_id": 0,
+      "children": [
+        {"id": "201", "name": "面部护理", "level": 2, "parent_id": 2},
+        {"id": "202", "name": "彩妆", "level": 2, "parent_id": 2},
+        {"id": "203", "name": "香水香氛", "level": 2, "parent_id": 2}
+      ]
+    },
+    {
+      "id": "3",
+      "name": "数码家电",
+      "level": 1,
+      "parent_id": 0,
+      "children": [
+        {"id": "301", "name": "手机", "level": 2, "parent_id": 3},
+        {"id": "302", "name": "电脑办公", "level": 2, "parent_id": 3},
+        {"id": "303", "name": "家用电器", "level": 2, "parent_id": 3}
+      ]
+    }
+  ],
+  "图书文娱类目": [
+    {
+      "id": "6",
+      "name": "图书音像",
+      "level": 1,
+      "parent_id": 0,
+      "children": [
+        {"id": "601", "name": "图书", "level": 2, "parent_id": 6, "children": [
+          {"id": "60101", "name": "文学小说", "level": 3, "parent_id": 601},
+          {"id": "60102", "name": "生活休闲", "level": 3, "parent_id": 601},
+          {"id": "60103", "name": "教育考试", "level": 3, "parent_id": 601}
+        ]},
+        {"id": "602", "name": "音像制品", "level": 2, "parent_id": 6},
+        {"id": "603", "name": "文具用品", "level": 2, "parent_id": 6}
+      ]
+    },
+    {
+      "id": "7",
+      "name": "玩具乐器",
+      "level": 1,
+      "parent_id": 0,
+      "children": [
+        {"id": "701", "name": "玩具", "level": 2, "parent_id": 7},
+        {"id": "702", "name": "乐器", "level": 2, "parent_id": 7}
+      ]
+    },
+    {
+      "id": "8",
+      "name": "运动户外",
+      "level": 1,
+      "parent_id": 0,
+      "children": [
+        {"id": "801", "name": "运动服装", "level": 2, "parent_id": 8},
+        {"id": "802", "name": "运动器械", "level": 2, "parent_id": 8},
+        {"id": "803", "name": "户外用品", "level": 2, "parent_id": 8}
+      ]
+    }
+  ],
+  "虚拟商品类目": [
+    {
+      "id": "381003",
+      "name": "虚拟商品",
+      "level": 1,
+      "parent_id": 0,
+      "children": [
+        {"id": "380003", "name": "数字内容", "level": 2, "parent_id": 381003, "children": [
+          {"id": "517050", "name": "视频教程", "level": 3, "parent_id": 380003},
+          {"id": "517051", "name": "电子书", "level": 3, "parent_id": 380003},
+          {"id": "517052", "name": "音频内容", "level": 3, "parent_id": 380003}
+        ]},
+        {"id": "380004", "name": "游戏娱乐", "level": 2, "parent_id": 381003},
+        {"id": "380005", "name": "生活服务", "level": 2, "parent_id": 381003}
+      ]
+    }
+  ],
+  "使用建议": [
+    "1. 在商品上传时，应选择最匹配商品性质的末级类目",
+    "2. 类目选择应遵循从大到小的原则，确保商品分类准确",
+    "3. 不同类目可能有不同的资质要求，请根据实际类目准备相关资质",
+    "4. 建议定期通过API获取最新类目数据，保持与平台同步",
+    "5. 类目ID是商品上传的必填字段，请确保准确填写",
+    "6. 视频教程类商品推荐使用类目：381003(虚拟商品) -> 380003(数字内容) -> 517050(视频教程)",
+    "7. 图书类商品推荐使用类目：6706(图书文娱) -> 6733(图书) -> 相应三级类目"
+  ]
+}

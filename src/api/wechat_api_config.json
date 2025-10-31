@@ -1,0 +1,16 @@
+{
+    "api_paths": {
+        "add_product": "/channels/ec/product/add",
+        "get_product": "/channels/ec/product/get",
+        "update_product": "/channels/ec/product/update",
+        "delete_product": "/channels/ec/product/delete",
+        "list_products": "/channels/ec/product/list",
+        "upload_image": "/channels/ec/product/image/upload",
+        "get_access_token": "/cgi-bin/token",
+        "get_category": "/merchant/category/getall",
+        "get_all_category": "/channels/ec/category/all",
+        "get_channels_category": "/channels/ec/category/all"
+    },
+    "api_base_url": "https://api.weixin.qq.com",
+    "timeout": 30
+}

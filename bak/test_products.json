@@ -1,0 +1,172 @@
+[
+  {
+    "title": "高品质食品饮料商品",
+    "sub_title": "限时促销",
+    "short_title": "高品质食品饮料商品",
+    "desc_info": {
+      "imgs": [
+        "https://example.com/detail2.jpg",
+        "https://example.com/detail1.jpg"
+      ],
+      "desc": "时尚设计，简约大方，适合各种场合。 设计精美，时尚大方。 性价比高，物超所值。"
+    },
+    "head_imgs": [
+      "https://example.com/product3.jpg",
+      "https://example.com/product2.jpg",
+      "https://example.com/product1.jpg"
+    ],
+    "deliver_method": 0,
+    "cats": [
+      {
+        "cat_id": "381003"
+      },
+      {
+        "cat_id": "380002"
+      },
+      {
+        "cat_id": "517049"
+      }
+    ],
+    "cats_v2": [
+      {
+        "cat_id": "381003"
+      },
+      {
+        "cat_id": "380002"
+      },
+      {
+        "cat_id": "517049"
+      }
+    ],
+    "extra_service": {
+      "service_tags": []
+    },
+    "skus": [
+      {
+        "price": 6617,
+        "stock_num": 868,
+        "out_sku_id": "SKU_PROD_1761708603_1_1"
+      }
+    ],
+    "listing": 0,
+    "out_product_id": "PROD_1761708603_1",
+    "create_time": "2025-10-29T11:30:03.146787",
+    "express_info": {
+      "express_type": 0,
+      "template_id": "default_template"
+    }
+  },
+  {
+    "title": "特价促销家居用品",
+    "sub_title": "新品上市",
+    "short_title": "特价促销家居用品",
+    "desc_info": {
+      "imgs": [
+        "https://example.com/detail2.jpg"
+      ],
+      "desc": "本商品质量优良，性价比高，值得购买。 设计精美，时尚大方。"
+    },
+    "head_imgs": [
+      "https://example.com/product1.jpg",
+      "https://example.com/product2.jpg",
+      "https://example.com/product3.jpg"
+    ],
+    "deliver_method": 0,
+    "cats": [
+      {
+        "cat_id": "381003"
+      },
+      {
+        "cat_id": "380003"
+      },
+      {
+        "cat_id": "517050"
+      }
+    ],
+    "cats_v2": [
+      {
+        "cat_id": "381003"
+      },
+      {
+        "cat_id": "380003"
+      },
+      {
+        "cat_id": "517050"
+      }
+    ],
+    "extra_service": {
+      "service_tags": []
+    },
+    "skus": [
+      {
+        "price": 4855,
+        "stock_num": 826,
+        "out_sku_id": "SKU_PROD_1761708603_2_1"
+      }
+    ],
+    "listing": 0,
+    "out_product_id": "PROD_1761708603_2",
+    "create_time": "2025-10-29T11:30:03.248094",
+    "express_info": {
+      "express_type": 0,
+      "template_id": "default_template"
+    }
+  },
+  {
+    "title": "新品上市：食品饮料",
+    "sub_title": "品质保证",
+    "short_title": "新品上市：食品饮料",
+    "desc_info": {
+      "imgs": [
+        "https://example.com/detail2.jpg",
+        "https://example.com/detail1.jpg"
+      ],
+      "desc": "精选材质制作，耐用性强，使用体验好。 性价比高，物超所值。 精工细作，品质保证。"
+    },
+    "head_imgs": [
+      "https://example.com/product2.jpg",
+      "https://example.com/product3.jpg",
+      "https://example.com/product1.jpg"
+    ],
+    "deliver_method": 0,
+    "cats": [
+      {
+        "cat_id": "381003"
+      },
+      {
+        "cat_id": "380003"
+      },
+      {
+        "cat_id": "517050"
+      }
+    ],
+    "cats_v2": [
+      {
+        "cat_id": "381003"
+      },
+      {
+        "cat_id": "380003"
+      },
+      {
+        "cat_id": "517050"
+      }
+    ],
+    "extra_service": {
+      "service_tags": []
+    },
+    "skus": [
+      {
+        "price": 9022,
+        "stock_num": 38,
+        "out_sku_id": "SKU_PROD_1761708603_3_1"
+      }
+    ],
+    "listing": 0,
+    "out_product_id": "PROD_1761708603_3",
+    "create_time": "2025-10-29T11:30:03.349725",
+    "express_info": {
+      "express_type": 0,
+      "template_id": "default_template"
+    }
+  }
+]

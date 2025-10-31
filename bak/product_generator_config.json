@@ -1,0 +1,34 @@
+{
+  "generation": {
+    "main_images_count": 3,
+    "detail_images_count": 2,
+    "image_size": "1024x1024",
+    "image_format": "jpg",
+    "max_retries": 3,
+    "timeout": 60
+  },
+  "upload": {
+    "platform": "wechat",
+    "auto_upload": false,
+    "compress_images": true,
+    "max_image_size_mb": 5
+  },
+  "points": {
+    "cost_per_main_image": 10,
+    "cost_per_detail_image": 8,
+    "cost_per_text_generation": 5
+  },
+  "qianduoduo_api": {
+    "api_key": "sk-T3PbJoofAo22v5CzDhrFUhlVuX3MmPdUTRTswa7phYdZ6Q5g",
+    "api_base_url": "https://api2.aigcbest.top",
+    "model_name": "DeepSeek-V3.1",
+    "text_generation_endpoint": "/v1/chat/completions",
+    "image_generation_endpoint": "/v1/images/generations",
+    "timeout": 60,
+    "retry_count": 3,
+    "retry_delay": 3,
+    "main_images_count": 3,
+    "detail_images_count": 2,
+    "image_save_dir": "./temp_images"
+  }
+}

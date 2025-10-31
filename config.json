@@ -1,0 +1,6 @@
+{
+  "appid": "your_app_id",
+  "appsecret": "your_app_secret",
+  "api_base_url": "https://api.weixin.qq.com",
+  "access_token_cache_file": "access_token_cache.json"
+}

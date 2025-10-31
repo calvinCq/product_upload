@@ -1,0 +1,77 @@
+{
+  "volcano_api": {
+    "api_base_url": "https://ark.cn-beijing.volces.com",
+    "image_generation_endpoint": "/api/v3/images/generations",
+    "model_name": "doubao-seedream-4-0-250828",
+    "main_images_count": 3,
+    "detail_images_count": 2,
+    "timeout": 60,
+    "retry_count": 3,
+    "retry_delay": 5,
+    "image_save_dir": "./temp_images",
+    "max_image_size_mb": 5
+  },
+  "generation": {
+    "product_count": 5,
+    "category_ids": [
+      {
+        "level1": "381003",
+        "level2": "380003",
+        "level3": "517050"
+      },
+      {
+        "level1": "381003",
+        "level2": "380002",
+        "level3": "517049"
+      }
+    ],
+    "price_range": [100, 9999],
+    "stock_range": [10, 1000],
+    "title_templates": [
+      "高品质{keyword}商品",
+      "特价促销{keyword}",
+      "精选{keyword}系列",
+      "新品上市：{keyword}"
+    ],
+    "keywords": ["电子产品", "家居用品", "服装配饰", "美妆护肤", "食品饮料"],
+    "description_templates": [
+      "本商品质量优良，性价比高，值得购买。",
+      "精选材质制作，耐用性强，使用体验好。",
+      "时尚设计，简约大方，适合各种场合。"
+    ],
+    "main_images": [
+      "https://example.com/product1.jpg",
+      "https://example.com/product2.jpg",
+      "https://example.com/product3.jpg"
+    ],
+    "detail_images": [
+      "https://example.com/detail1.jpg",
+      "https://example.com/detail2.jpg"
+    ],
+    "deliver_method": 0
+  },
+  "upload": {
+    "batch_size": 10,
+    "request_interval": 2,
+    "max_retries": 3,
+    "retry_interval_base": 5,
+    "enable_retry": true,
+    "save_results": true,
+    "results_file": ""
+  },
+  "api": {
+    "appid": "wx0b52c3ed18110fa2",
+    "appsecret": "7a22f8e98105adab1effb56a01be51ea",
+    "api_base_url": "https://api.weixin.qq.com"
+  },
+  "points": {
+    "enabled": true,
+    "request_interval": 1,
+    "max_retries": 3,
+    "timeout": 30,
+    "openids": [
+      "o1Fp41M77C9X5GvJmJcE2mD4eQcE",
+      "o1Fp41M77C9X5GvJmJcE2mD4eQcE"
+    ]
+  }
+}

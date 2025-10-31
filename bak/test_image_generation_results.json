@@ -1,0 +1,16 @@
+{
+  "test_time": "2025-10-30T13:59:40.734638",
+  "total_time_seconds": 40.23248219490051,
+  "main_images_count": 3,
+  "detail_images_count": 2,
+  "successful_main_images": [
+    "./temp_images\\main_20251030_135906_1.jpg",
+    "./temp_images\\main_20251030_135914_1.jpg",
+    "./temp_images\\main_20251030_135922_1.jpg"
+  ],
+  "successful_detail_images": [
+    "./temp_images\\detail_20251030_135932_1.jpg",
+    "./temp_images\\detail_20251030_135939_1.jpg"
+  ],
+  "product_description": "高端商务笔记本电脑，15.6英寸全高清屏幕，16GB内存，512GB固态硬盘，金属机身，轻薄便携，适合办公和轻度游戏"
+}

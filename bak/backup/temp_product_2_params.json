@@ -1,0 +1,57 @@
+{
+  "title": "短视频运营技巧教程",
+  "head_imgs": [
+    "https://example.com/video1.jpg",
+    "https://example.com/video2.jpg",
+    "https://example.com/video3.jpg",
+    "https://example.com/video4.jpg"
+  ],
+  "deliver_method": 0,
+  "cats": [
+    {
+      "cat_id": "381003"
+    },
+    {
+      "cat_id": "380003"
+    },
+    {
+      "cat_id": "517050"
+    }
+  ],
+  "cats_v2": [
+    {
+      "cat_id": "381003"
+    },
+    {
+      "cat_id": "380003"
+    },
+    {
+      "cat_id": "517050"
+    }
+  ],
+  "extra_service": {
+    "service_tags": []
+  },
+  "skus": [
+    {
+      "price": 1200,
+      "stock_num": 200,
+      "out_sku_id": "SKU002"
+    }
+  ],
+  "desc_info": {
+    "imgs": [
+      "https://example.com/video_desc1.jpg",
+      "https://example.com/video_desc2.jpg",
+      "https://example.com/video_desc3.jpg"
+    ],
+    "desc": "全面讲解短视频平台运营策略、内容创作、粉丝增长和变现方法"
+  },
+  "sub_title": "从零开始学短视频",
+  "short_title": "短视频教程",
+  "listing": 0,
+  "express_info": {
+    "express_type": 0,
+    "template_id": "default_template"
+  }
+}

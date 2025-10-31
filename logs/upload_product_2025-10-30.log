@@ -1,0 +1,3 @@
+2025-10-30 18:26:27 - logger - WARNING - 调用get_logger()时提供name参数已废弃，请使用logger_instance.get_logger(name)替代
+2025-10-30 18:26:27 - upload_product - INFO - 商品生成与上传系统启动
+2025-10-30 18:26:27 - upload_product - INFO - 商品生成与上传系统启动

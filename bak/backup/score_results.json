@@ -1,0 +1,27 @@
+{
+  "total": 2,
+  "success": 0,
+  "failed": 2,
+  "details": [
+    {
+      "index": 1,
+      "openid": "o1Fp41M77C9X5GvJmJcE2mD4eQcE",
+      "success": false,
+      "score": null,
+      "error": "无法获取有效的access_token",
+      "query_time": "2025-10-29T11:39:03.107244"
+    },
+    {
+      "index": 2,
+      "openid": "o1Fp41M77C9X5GvJmJcE2mD4eQcE",
+      "success": false,
+      "score": null,
+      "error": "无法获取有效的access_token",
+      "query_time": "2025-10-29T11:39:16.115622"
+    }
+  ],
+  "duration": 25.02,
+  "success_rate": 0.0,
+  "total_score": 0,
+  "average_score": 0
+}

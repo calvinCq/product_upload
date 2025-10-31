@@ -1,0 +1,21 @@
+{
+  "start_time": "2025-10-30 12:29:19",
+  "end_time": "2025-10-30 12:29:40",
+  "environment_check": {
+    "env_file_exists": true,
+    "config_manager_init": true,
+    "volcano_api_key_exists": "071f1a8b-e45a-44f8-ad61-02b4b485f07a",
+    "volcano_model_name_exists": "doubao-seedream-4-0-250828"
+  },
+  "image_generation": {
+    "init_success": true,
+    "success": true,
+    "image_count": 1,
+    "image_paths": [
+      "./test_generated_images\\main_20251030_122939_1.jpg"
+    ],
+    "generation_time": 7.72,
+    "model_used": "doubao-seedream-4-0-250828"
+  },
+  "product_upload": {}
+}

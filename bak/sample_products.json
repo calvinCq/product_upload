@@ -1,0 +1,16 @@
+[
+  {
+    "product_id": "1001",
+    "title": "测试商品1",
+    "description": "这是一个测试商品",
+    "price": 99.9,
+    "stock": 100
+  },
+  {
+    "product_id": "1002",
+    "title": "测试商品2",
+    "description": "这是第二个测试商品",
+    "price": 199.9,
+    "stock": 50
+  }
+]

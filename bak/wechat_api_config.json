@@ -1,0 +1,20 @@
+{
+    "appid": "wx0b52c3ed18110fa2",
+    "appsecret": "7a22f8e98105adab1effb56a01be51ea",
+    "api_base_url": "https://api.weixin.qq.com",
+    "timeout": 30,
+    "api_paths": {
+        "access_token": "/cgi-bin/token",
+        "get_vip_user_score": "/shop/vip/getvipuserscore",
+        "get_category": "/merchant/category/getall",
+        "get_all_category": "/channels/ec/category/all",
+        "get_channels_category": "/channels/ec/category/all",
+        "get_channels_product_list": "/channels/ec/product/list/get",
+        "get_product_detail": "/channels/ec/product/get",
+        "add_product": "/channels/ec/product/add",
+        "update_product": "/channels/ec/product/update",
+        "delete_product": "/channels/ec/product/delete",
+        "upload_image": "/channels/ec/img/upload",
+        "get_shop_info": "/shop/shopinfo/get"
+    }
+}
