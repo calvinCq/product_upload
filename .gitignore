@@ -1,0 +1,72 @@
+# 配置文件
+.env
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 测试
+.cache
+.coverage
+.pytest_cache/
+
+# 日志
+logs/
+*.log
+wechat_api_operation.log
+
+# 临时文件
+temp_images/
+cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 备份
+bak/
+*.bak
+
+# 输出目录
+output/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Venv
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# 其他
+.trae/
+*.pyd
+.directory
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# 大型二进制文件
+*.zip
+*.rar
+*.tar.gz
+*.tar.bz2
