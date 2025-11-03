@@ -36,6 +36,8 @@ bak/
 
 # 输出目录
 output/
+product-upload/
+productUpload/
 
 # Windows
 Thumbs.db
